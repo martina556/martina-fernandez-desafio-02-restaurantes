@@ -1,0 +1,25 @@
+body {
+  background-color: #289688;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #fcea3e;
+  text-align: center;
+  font-size: 40px;
+}
+
+.fila-1 {
+  width: auto;
+  border: 8px solid whitesmoke;
+  margin: 4px;
+  height: 200px;
+}
+
+.fila-2 {
+  width: auto;
+  border: 8px solid whitesmoke;
+  margin: 4px;
+  height: 200px;
+}
